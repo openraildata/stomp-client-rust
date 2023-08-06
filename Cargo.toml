@@ -1,0 +1,14 @@
+[package]
+name = "openraildata_stomp_client"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.72"
+env_logger = "0.10.0"
+log = "0.4.19"
+serde = { version = "1.0.182", features = ["derive"] }
+serde_json = "1.0.104"
+stomp-rs = "0.0.8"
+thiserror = "1.0.44"
+tokio = { version = "1.29.1", features = ["full", "macros", "time", "rt"] }
