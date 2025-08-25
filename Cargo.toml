@@ -8,7 +8,7 @@ anyhow = "1.0.99"
 env_logger = "0.11.6"
 log = "0.4.27"
 serde = { version = "1.0.219", features = ["derive"] }
-serde_json = "1.0.142"
+serde_json = "1.0.143"
 stomp-rs = "0.0.8"
-thiserror = "2.0.15"
+thiserror = "2.0.16"
 tokio = { version = "1.47.1", features = ["full", "macros", "time", "rt"] }
