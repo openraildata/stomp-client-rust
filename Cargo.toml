@@ -3,6 +3,12 @@ name = "openraildata_stomp_client"
 version = "0.1.0"
 edition = "2021"
 
+[[bin]]
+name = "nrdp_darwin_v16"
+
+[[bin]]
+name = "nrod_td"
+
 [dependencies]
 anyhow = "1.0.100"
 env_logger = "0.11.6"
