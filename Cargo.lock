@@ -568,6 +568,7 @@ dependencies = [
  "anyhow",
  "async-stomp",
  "env_logger",
+ "futures",
  "log",
  "serde",
  "serde_json",
