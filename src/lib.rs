@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2023 - 2025 Dom Rodriguez <shymega@shymega.org.uk>
+//
+// SPDX-License-Identifier: MIT
+
 //! Contribution to OpenRailData, for a Rust NROD/NRDP client.
 #![deny(
     warnings,

@@ -1,0 +1,4 @@
+version = 1
+SPDX-PackageName = "stomp-client-rust"
+SPDX-PackageSupplier = "Dom Rodriguez <shymega@shymega.org.uk>"
+SPDX-PackageDownloadLocation = "https://github.com/openraildata/stomp-client-rust"

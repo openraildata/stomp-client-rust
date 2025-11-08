@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2023 - 2025 Dom Rodriguez <shymega@shymega.org.uk>
+#
+# SPDX-License-Identifier: MIT
+
 [package]
 name = "openraildata_stomp_client"
 version = "0.1.0"
